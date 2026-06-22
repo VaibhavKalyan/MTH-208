@@ -6,10 +6,10 @@
 
 > An interactive data product designed to analyze the Indian used car resale market, identifying key financial drivers, modelling depreciation, and uncovering geographic pricing inefficiencies.
 
-## 🔗 Live Application
+## Live Application
 The dashboard is publicly deployed and accessible here: **[Used Car Insights Dashboard](https://unsaidvolcano.shinyapps.io/mth208proj/)**
 
-## 📖 Overview
+##  Overview
 This project delivers a comprehensive exploratory data analysis (EDA) of the Indian used car market. By combining live web-scraped listings with existing datasets, this application models vehicle depreciation across segments and provides actionable, data-driven recommendations for prospective buyers.
 
 ### Key Insights Discovered
@@ -23,7 +23,7 @@ This project delivers a comprehensive exploratory data analysis (EDA) of the Ind
 * **Depreciation Modeling:** Visualizes per-year depreciation rates by fuel type using linear regression.
 * **Market Overview:** Univariate and bivariate visual analysis of pricing structures across different geographic and structural factors.
 
-## 🛠️ Project Structure
+## Project Structure
 ```text
 ├── app/
 │   ├── app.R                   # Main Shiny Dashboard application script

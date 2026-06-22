@@ -1,4 +1,4 @@
-# Used Car Market Analytics Dashboard 🚗📊
+# Used Car Market Analytics Dashboard 
 
 [![Built with R](https://img.shields.io/badge/Built_with-R-blue.svg)](https://www.r-project.org/)
 [![Built with Shiny](https://img.shields.io/badge/UI-Shiny-lightgrey.svg)](https://shiny.rstudio.com/)
@@ -17,7 +17,7 @@ This project delivers a comprehensive exploratory data analysis (EDA) of the Ind
 * **Geographic Variations:** Significant pricing disparities exist at the city level (e.g., CNG hatchbacks command higher median prices in certain metropolitan areas).
 * **Segment Depreciation:** High mileage penalizes smaller vehicle segments (Hatchbacks) much more severely than utility segments (MUVs).
 
-## ✨ Features
+## Features
 * **Global Dynamic Filtering:** Filter the entire dataset instantly by City, Brand, Market Segment, Fuel Type, Price Range, Mileage, and Age.
 * **Recommendation Engine:** A "Best Value" screening algorithm that flags listings priced at least 20% below their model-level average.
 * **Depreciation Modeling:** Visualizes per-year depreciation rates by fuel type using linear regression.
@@ -36,7 +36,7 @@ This project delivers a comprehensive exploratory data analysis (EDA) of the Ind
 └── Readme.md                   # Project documentation
 ```
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 Ensure you have R and RStudio installed. You will need to install the required dependencies by running the `requirements.R` script, or by manually installing the following packages:
@@ -56,7 +56,7 @@ The repository includes the fully cleaned dataset (`cars_cleaned_v3.csv`). If yo
 2. Execute `scraping.R` to fetch live data (respects rate limits).
 3. Execute `cleaning.R` to process the raw output into the final analytical format.
 
-## 🧑‍💻 Team Members
+## Team Members
 This project was developed as part of the **MTH-208** course by:
 * Yatin Preetam Bhojwani (241211)
 * Vaibhav Kalyan (241125)

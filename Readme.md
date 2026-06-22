@@ -1,4 +1,4 @@
-# Used Car Market Analytics Dashboard 
+# Automotive Resale Insights Dashboard 
 
 [![Built with R](https://img.shields.io/badge/Built_with-R-blue.svg)](https://www.r-project.org/)
 [![Built with Shiny](https://img.shields.io/badge/UI-Shiny-lightgrey.svg)](https://shiny.rstudio.com/)
